@@ -1,7 +1,4 @@
-
 // object er simble version 
-
-
 var student1 = {
     id: 70,
     Name: 'sami',
@@ -10,6 +7,7 @@ var student1 = {
     height: 5.6,
     department: CSE
 };
+
 
 var mobile = {
 
@@ -21,9 +19,8 @@ var mobile = {
     screenSize: 5
 };
 
+
 var book = {
-
-
     name: 'programming.hero',
     chapter: 16,
     content: 78,
